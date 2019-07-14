@@ -7,7 +7,11 @@ public class Accounts {
 	int withdraw=1000;
 	
 	
-	 public void Deposit() {
+	 /**
+	 * hi
+	 * uhu
+	 */
+	public void Deposit() {
 		 
 		 balance=balance+Deposit;
 		 
